@@ -23,13 +23,6 @@ Each STIG is:
 7. Rescan → confirm PASS
 
 ---
-
-## 📊 STIG Remediation Table
-
-| STIG ID | Description | Script | Evidence |
-|--------|-------------|--------|----------|
-| WN11-AU-000050 | Audit Process Creation must be enabled | Coming Soon | Coming Soon |
-
 ---
 
 ## 🛠️ Tools Used
