@@ -11,6 +11,22 @@ Each STIG is:
 - Validated (Fail → Pass → Fail → Pass)
 - Automated using PowerShell
 
+## Remediations Table
+
+| STIG ID | Description | Language | Link |
+|---|---|---|---|
+| WN11-AU-000050 | Enables Audit Process Creation Success auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000050.ps1) |
+| WN11-AU-000080 | Enables Special Logon auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000080.ps1) |
+| WN11-AU-000105 | Enables Authentication Policy Change auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000105.ps1) |
+| WN11-AU-000130 | Enables Other System Events auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000130.ps1) |
+| WN11-AU-000150 | Enables Security System Extension auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000150.ps1) |
+| WN11-AU-000500 | Configures Application event log size to 32768 KB or greater. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000500.ps1) |
+| WN11-AU-000040 | Enables User Account Management auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000040.ps1) |
+| WN11-AU-000054 | Enables Account Lockout Failure auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000054.ps1) |
+| WN11-AU-000070 | Enables Logon Failure auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000070.ps1) |
+| WN11-AU-000083 | Enables Other Object Access Events auditing. | PowerShell | [View Remediation](Scripts/Remediate-WN11-AU-000083.ps1) |
+
+
 ---
 
 ## 🧱 Methodology
